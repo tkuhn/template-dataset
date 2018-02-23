@@ -4,6 +4,7 @@ This repository provides an example on how to make your interaction data availab
 
 If you have comments or questions please [open an issue](https://github.com/jhpoelen/eol-globi-data/issues/new).
 
+
 ## Share Your Interaction Data
 If you want to share your own data through GloBI:
 
